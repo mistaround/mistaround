@@ -27,7 +27,9 @@ Skills:
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
-<img width="110" src="https://hadoop.apache.org/hadoop-logo.jpg"/>
+<img width="100" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Hadoop_logo_new.svg"/>
+<img width="75" src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Apache_Storm_logo.svg"/>
+
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
