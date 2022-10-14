@@ -11,11 +11,12 @@ Currently:
 - 🧑‍🏫 Teaching Assistant on CIS 5570 @UPenn CIS
 - 🤔 Seeking SDE jobs for 2023 New Grad
 - 🌱 Self-teaching Docker and Kubernetes now
-- 😒 LeetCoding
+- 😒 Leetcode 300+
 
 Before:
 - 🎓 B.E. Computer Science (Spring 21) @ShanghaiTech 
-- 👔 CV Algorithm Intern @ DGene Digital
+- 👔 Software Engineer Intern @ YuantuSoft
+- 👔 Software Engineer Intern @ DGene Digital
 - 🔭 Research Assistant @ SVIP Lab
 - 🧑‍🏫 Teaching Assistant on CS 130 @ShanghaiTech 
 
