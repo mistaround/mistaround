@@ -15,7 +15,6 @@ Currently:
 
 Before:
 - 🎓 B.E. Computer Science (Spring 21) @ShanghaiTech 
-- 👔 Software Engineer Intern @ YuantuSoft
 - 👔 Software Engineer Intern @ DGene Digital
 - 🔭 Research Assistant @ SVIP Lab
 - 🧑‍🏫 Teaching Assistant on CS 130 @ShanghaiTech 
