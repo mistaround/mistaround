@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Shuo Sun
 
-👔 [LinkedIn](https://www.linkedin.com/in/sunshuo/) / ⚡[Personal Website](https://mistaround.github.io/) / 📫 sunshuo716@gmail.com
+👔 [LinkedIn](https://www.linkedin.com/in/sunshuo/) / ⚡[Personal Website](https://mistaround.github.io/portfolio/) / 📫 sunshuo716@gmail.com
 
 <a href="https://github.com/mistaround">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=mistaround&show_icons=true" />
