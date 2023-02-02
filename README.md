@@ -7,7 +7,7 @@
 </a>
 
 Currently:
-- 🎓 M.S. Electrical Engineering (Spring 23) @UPenn ESE
+- 🎓 M.S. Electrical Engineering + M.S. Computer and Infomation Science (Spring 24) @UPenn
 - 🧑‍🏫 Teaching Assistant on CIS 5570 @UPenn CIS
 - 🤔 Seeking SDE jobs for 2023 New Grad
 - 🌱 Self-teaching Docker and Kubernetes now
