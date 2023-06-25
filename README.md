@@ -11,7 +11,6 @@ Currently:
 - 🤔 Seeking software jobs for 2024 New Grad
 - 🌱 Learning React Native now
 - 😒 Leetcode 300+
-- 😊 Personally interested in Frontend and UI/UX
 
 Before:
 - 🎓 B.E. Computer Science (Spring 21) @ShanghaiTech 
