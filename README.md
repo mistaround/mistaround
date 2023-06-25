@@ -9,7 +9,7 @@
 Currently:
 - 🎓 M.S. Electrical Engineering + M.S. Computer and Infomation Science (Spring 24) @UPenn
 - 🤔 Seeking software jobs for 2024 New Grad
-- 🌱 Learning Three.js + WebGL now
+- 🌱 Learning React Native now
 - 😒 Leetcode 300+
 - 😊 Personally interested in Frontend and UI/UX
 
